@@ -1,0 +1,20 @@
+[
+    {
+        "product_name": "Dunkin Donut",
+        "product_description": " A kind of ring-shaped snack food popular in many countries, which are usually deep fried from flour",
+        "product_price": 30.00,
+        "product_dateAdded": "2024-02-06"
+    },
+    {
+        "product_name": "Takoyaki",
+        "product_description": "  ball-shaped Japanese snack",
+        "product_price": 45.00,
+        "product_dateAdded": "2024-04-07"
+    },
+    {
+        "product_name": "French Fries",
+        "product_description": "  side dish or snack typically made from deep-fried potatoes that have been cut into various shape, especially thin strips",
+        "product_price": 149.49,
+        "product_dateAdded": "2024-02-08"
+    }
+]
